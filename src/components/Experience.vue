@@ -38,7 +38,7 @@
             <a target="_blank" href="#" class="card-link btn btn-primary">Repo</a>
             <a
               target="_blank"
-              href="https://bcw-capstone-wafl.herokuapp.com/#/"
+              href="https://wafl.herokuapp.com/"
               class="card-link btn btn-info"
             >Live</a>
           </div>
